@@ -1,4 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Orhan Demir ===================================================================================================================================  Mobile Software Developer and QA Tester ---------------------------------------  I've been coding for 2 years  * 🌍  I'm based in Germany * ✉️  You can contact me at [demirorhan0555@gmail.com](mailto:demirorhan0555@gmail.com) * 🧠  I'm learning Flutter and Firebase
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Orhan Demir =================================================================================================================================== 
+Mobile Software Developer and QA Tester
+---------------------------------------
+
+I've been coding for 2 years  *
+
+🌍  I'm based in Germany *
+
+✉️  You can contact me at [demirorhan0555@gmail.com](mailto:demirorhan0555@gmail.com) *
+
+🧠  I'm learning Flutter and Firebase
 
 ### Skills
 
